@@ -65,6 +65,7 @@ public class FeatureFactory {
 	if(previousLabel=="PERSON" && currentWord.startsWith("و")){
 		features.add("org + wa");
 	}
+	
 		if(previousLabel=="PERSON"){
 		features.add("prevlabel");
 	}
