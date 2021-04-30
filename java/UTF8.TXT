@@ -1,0 +1,39 @@
+ Volume in drive C is OS
+ Volume Serial Number is F22D-6194
+
+ Directory of C:\Users\Rama\nlp-datamining\arabic entities - nlp\hw3\java
+
+04/30/2021  08:41 AM    <DIR>          .
+04/30/2021  08:41 AM    <DIR>          ..
+04/02/2012  08:01 AM               227 .classpath
+04/25/2021  06:14 AM    <DIR>          .idea
+04/02/2012  08:01 AM               362 .project
+04/25/2021  06:14 AM    <DIR>          .settings
+04/02/2012  08:01 AM            41,651 ArrayMath.java
+04/02/2012  08:01 AM            26,797 Base64.java
+04/30/2021  08:26 AM               899 build.xml
+04/29/2021  02:05 AM    <DIR>          classes
+04/02/2012  08:01 AM               289 Datum.java
+04/30/2021  08:36 AM            10,258 FeatureFactory.java
+04/15/2012  01:27 AM           520,887 file.txt
+04/28/2021  08:55 PM    <DIR>          helpersData
+04/02/2012  08:01 AM               950 Index.java
+04/02/2012  08:01 AM             3,663 LogConditionalObjectiveFunction.java
+04/02/2012  08:01 AM               346 LogPrior.java
+04/02/2012  08:01 AM             3,349 MEMM.java
+04/13/2012  01:53 PM           521,003 myFile.txt
+03/28/2021  12:16 AM               437 NER.iml
+04/02/2012  08:01 AM             1,455 NER.java
+04/25/2021  06:14 AM    <DIR>          org
+04/02/2012  08:01 AM            67,922 QNMinimizer.java
+04/16/2021  03:56 PM             1,153 README.txt
+04/02/2012  08:01 AM             1,860 Scorer.java
+04/02/2012  08:01 AM            12,751 Submit.java
+04/13/2012  06:00 PM         2,054,141 testtrain.txt
+04/30/2021  08:42 AM         5,804,744 testWithFeatures.json
+04/13/2012  05:59 PM           521,002 traintest.txt
+04/30/2021  08:42 AM        14,237,442 trainWithFeatures.json
+04/30/2021  08:43 AM                 0 UTF8.TXT
+04/02/2012  08:01 AM             2,690 Viterbi.java
+              25 File(s)     23,836,278 bytes
+               7 Dir(s)  13,815,836,672 bytes free
